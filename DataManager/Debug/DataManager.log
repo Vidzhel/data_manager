@@ -1,0 +1,9 @@
+﻿  DataManager.cpp
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(194,9): warning C4101:  'k': unreferenced local variable
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(194,6): warning C4101:  'c': unreferenced local variable
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(246,29): warning C4018:  '>': signed/unsigned mismatch
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(298,22): warning C4018:  '<': signed/unsigned mismatch
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(304,21): warning C4018:  '<': signed/unsigned mismatch
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(380,22): warning C4018:  '<': signed/unsigned mismatch
+C:\work\C\Practive (first year)\DataManager\DataManager\DataManager.cpp(488,38): warning C4101:  'c': unreferenced local variable
+  DataManager.vcxproj -> C:\work\C\Practive (first year)\DataManager\Debug\DataManager.exe
