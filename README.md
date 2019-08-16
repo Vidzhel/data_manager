@@ -9,8 +9,8 @@ This is a simple C based console application that allows you to add records to a
   * [Installing](#installing)
 * [Built With](#built-with)
 
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
+| [![](https://i.ibb.co/ZVybbwT/C-work-C-Practive-first-year-Data-Manager-Debug-Data-Manager-exe-8-16-2019-7-05-45-AM.png)](https://i.ibb.co/ZVybbwT/C-work-C-Practive-first-year-Data-Manager-Debug-Data-Manager-exe-8-16-2019-7-05-45-AM.png)  | [![](https://i.ibb.co/JChSHFf/C-work-C-Practive-first-year-Data-Manager-Debug-Data-Manager-exe-8-16-2019-7-10-50-AM.png)](https://i.ibb.co/JChSHFf/C-work-C-Practive-first-year-Data-Manager-Debug-Data-Manager-exe-8-16-2019-7-10-50-AM.png) |
+|:---:|:---:|
 
 ## I have learned
 
