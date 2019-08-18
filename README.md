@@ -1,5 +1,5 @@
 # Data Manager
-This is a simple C based console application that allows you to add records to a static (predefined) table. It's possible to change data, print table or part thereof, search by column, delete records, sort by column, save and open from a file. This project has created for porpose of university practice after half of a year after I started my studying as a Computer Engineer, so I apologize for lack of comments.
+This is a simple C based console application that allows you to add records to a static (predefined) table. It's possible to change data, print table or part thereof, search by column, delete records, sort by column, save and open from a file. This project has created for purpose of university practice after half of a year after I started my studying as a Computer Engineer, so I apologize for lack of comments.
 
 ## Table of contents
 * [I have learned](#i-have-learned)
